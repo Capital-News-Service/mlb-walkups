@@ -9,5 +9,5 @@ http://cnsmaryland.org/2017/10/31/major-league-baseball-players-prefer-hip-hop-s
 It was also published by WTOP
 https://wtop.com/mlb/2017/11/major-league-baseball-players-prefer-hip-hop-songs-get-pumped/slide/1/
 
-Article by Chris Rogers and Jake Gluck
-Code by Jake Gluck
+#Article by Chris Rogers and Jake Gluck        
+#Code by Jake Gluck
